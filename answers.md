@@ -60,7 +60,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 12. Yes, the changes were made in the local directory
 
-13. 
+13. .  ..  .git  .gitignore  README.md
+
 
 
 
