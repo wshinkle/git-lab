@@ -54,6 +54,15 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+10. No, the changes were not reflected
+
+11. The terminal prints an error
+
+12. Yes, the changes were made in the local directory
+
+13. 
+
+
 
 
 
